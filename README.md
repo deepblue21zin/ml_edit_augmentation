@@ -2,6 +2,11 @@
 augmentation
 실행 방법 : streamlit run main.py
 
+가장 먼저 노이즈가 없는 data1을 선택하고 증강 설정을 시작합니다
+
+<img width="387" height="306" alt="image" src="https://github.com/user-attachments/assets/fade0bbf-5e50-4e75-806e-edfe407993f4" />
+
+
 왼쪽 사이드바에 증강 설정을 통해서 어떤 증강으로 얼마 정도로 할 것인지 설정을 할 수 있습니다
 
 
