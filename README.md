@@ -2,6 +2,12 @@
 augmentation
 실행 방법 : streamlit run main.py
 
+enable data augmentation을 클릭하면 설정리스트가 나옵니다
+
+
+<img width="366" height="128" alt="image" src="https://github.com/user-attachments/assets/5c2861b7-1982-40a2-b2f3-dc0bfb10b544" />
+
+
 가장 먼저 노이즈가 없는 data1을 선택하고 증강 설정을 시작합니다
 
 <img width="387" height="306" alt="image" src="https://github.com/user-attachments/assets/fade0bbf-5e50-4e75-806e-edfe407993f4" />
